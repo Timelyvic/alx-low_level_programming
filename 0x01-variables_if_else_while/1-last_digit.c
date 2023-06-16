@@ -27,5 +27,5 @@ int main(void)
 			n, n % 10);
 	}
 	else
-{
+	{
 
