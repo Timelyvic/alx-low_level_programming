@@ -4,16 +4,16 @@
 *@s:string
 *Return:length
 */
-int_strlen(char*s)
+int_strlen(char *s)
 {
-intlongi=0;
+int longi = 0;
 
-while(*s!='\0')
+while (*s != '\0')
 {
 longi++;
 s++;
 }
 
-return(longi);
+return (longi);
 }
 
